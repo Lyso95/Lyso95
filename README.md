@@ -1,3 +1,3 @@
 👋 Hi,
 
-currently learning C#, able to script HTML, CSS, JS | Volunteer: Firebrigade, Civil Protection, Social work
+currently learning JavaScript @codecademy.com, able to script HTML, CSS | Tried: C#, ASP.net and postgreSQL | Volunteer: Firebrigade, Civil Protection, Social work
