@@ -6,17 +6,24 @@ A brief overview about my skills:
 
 | Languages |  Tools      | Learning | Tried |
 |:---------:|:-----------:|:--------:|:-----:|
-|    HTML   | VS Code     |   React  |   C#  |
-|    CSS    |  Docker     |   Redux  |  .NET |
-|     JS    | Adobe Suite |          |       |
+|    HTML   | VS Code     |   React  |   C#      |
+|    CSS    |  Docker     |   Redux  |  .NET     |
+|     JS    | Adobe Suite |   OAuth2 | BabylonJS |
+|           |             |   OIDC   | Angular   |
+<details>
+  <summary>Training Platforms I use or used:</summary>
+  <ul>
+    <li><a href="https://codecademy.com">Codecademy.com</a>
+    <li><a href="https://www.freecodecamp.org/learn/">FreeCodeCamp</a></li>
+    <li><a href="https://dotnet.microsoft.com/en-us/learn/aspnet">ASP.NET</a></li>
+  </ul>
+</details>
 
 <details>
-  <summary>
-   # Selected Links
-  </summary>
-  ## Training Platfforms I use or used:
-  - https://www.freecodecamp.org/learn/
-  - https://dotnet.microsoft.com/en-us/learn/aspnet
-  - 
-  ## Networks / Job-Platforms
+  <summary>Networks and Volunteering</summary>
+  <ul>
+    <li><a href="https://www.hafven.de/">Hafven</a></li>
+    <li><a href="https://www.round-table.org/">Round Table</li>
+  </ul>
 </details>
+
