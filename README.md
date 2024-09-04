@@ -22,3 +22,5 @@ I am currently learning React at [Codecademy](https://codecademy.com) to become 
   </ul>
 </details>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
