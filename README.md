@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-Coding [@WattWeiser](https://wattweiser.com)<br>
+Junior Developer [@WattWeiser](https://wattweiser.com)<br>
 I am currently in education @WBS-Training AG.<br><br>
 
 # 💻 stuff we could talk about:
