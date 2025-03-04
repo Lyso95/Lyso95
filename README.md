@@ -1,11 +1,6 @@
 # 👋 Welcome
-<br><br>
-# 💫 About Me:<br>
-🧑🏼‍🔬Junior Developer<br>
-📕Fachinformatiker Anwendungsentwicklung<br>
-🌍Metaverse / VR<br><br>
 
-Apprentice at [WattWeiser](https://wattweiser.com)<br>
+Coding [@WattWeiser](https://wattweiser.com)<br>
 I am currently doing a retraining @WBS-Training AG.<br><br>
 
 # 💻 some of the stuff I used or am learning:
