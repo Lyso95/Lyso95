@@ -5,7 +5,7 @@
 📕Fachinformatiker Anwendungsentwicklung<br>
 🌍Metaverse / VR<br>
 
-Apprentice at ![WattWeiser](https://wattweiser.com)
+Apprentice at [WattWeiser](https://wattweiser.com)
 I am currently doing a retraining @WBS-Training AG.
 
 # 💻 some of the stuff I used or am learning:
